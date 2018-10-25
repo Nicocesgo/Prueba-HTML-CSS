@@ -1,0 +1,155 @@
+/*INDEX*/
+/*Barra de Navegación*/
+.navbar-default {
+    position: fixed;
+    width: 100%;
+    z-index: 5;
+}
+
+.slide {
+    padding-top: 50px;
+}
+
+.w100 {
+    width: 100%
+}
+
+/*Thumbnails*/
+.row1 {
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.row2 {
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.row3 {
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 100px;
+}
+
+.titulothumbnails {
+    padding-top: 10px;
+}
+
+.padtop {
+    padding-top: 35px;
+}
+
+.padtop2 {
+    padding-top: 10px;
+}
+
+/*Footer*/
+footer {
+    background-color: #eee
+}
+
+.foot {
+    padding-bottom: 20px;
+}
+
+.titulo-footer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    clear: both;
+}
+
+.contacto_list {
+    padding-left: 0px;
+    color: #777
+}
+
+.contacto_list li {
+    list-style: none;
+    font-size: 2rem;
+    margin-top: 5px;
+}
+
+.social {
+    list-style: none;
+    padding-left: 0px;
+    font-size: 0.8rem;
+    margin-bottom: 20px;
+}
+
+.social li {
+    float: left;
+    margin-right: 20px;
+}
+
+.info {
+    padding-left: 10px;
+}
+
+.embed-responsive-16by9 {
+    margin-top: 10px;
+}
+
+i {
+    margin-bottom: 20px;
+}
+
+/*NOSOTROS*/
+.head {
+    padding-top: 50px;
+}
+
+.historia {
+    font-size: 2rem;
+}
+
+.objetivos {
+    font-size: 1.8rem
+}
+
+.objetivos ul {
+    margin-top: 20px;
+}
+
+.montaña {
+    font-size: 1.5rem
+}
+
+.futbol {
+    font-size: 1.52rem;
+    clear: both;
+}
+
+.titulo1 {
+    color: #0088aa
+}
+
+.actividad_title {
+    color: #888
+}
+
+/*NOTICIAS*/
+.head2 {
+    padding-top: 50px;
+    color: #0088aa
+}
+
+.parrafo_noticias {
+    padding-top: 20px;
+    font-size: 1.8rem
+}
+
+.futbol {
+    padding-bottom: 50px;
+}
+
+
+.padtop3 {
+    padding-top: 60px;
+}
+
+.titulo2{
+  text-align: center;
+}
